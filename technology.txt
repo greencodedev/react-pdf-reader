@@ -1,0 +1,6 @@
+this project is pdf reader based on React.js
+it use react-pdf package.
+// run project
+in cmd
+ yarn install
+ npm start
